@@ -118,7 +118,7 @@ def render_login_page():
     # Header
     st.markdown("""
     <div style="text-align: center; padding: 20px;">
-        <h1>🏥 Healthcare Ecosystem</h1>
+        <h1>🏥 Svasthyadhara</h1>
         <p style="font-size: 1.2em; color: #666;">
             Connecting Patients, Hospitals, and Pharmacies
         </p>
